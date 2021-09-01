@@ -246,6 +246,6 @@
 	}
 	"THE PLATFORM WILL BREAK IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**平台将在30秒后破坏**"
 	}
 }

@@ -10,15 +10,15 @@
 	}
 	"<< WIND FORCE ITEM HAS BEEN PICKED UP>>"
 	{
-		"chi"		"** **"
+		"chi"		"**风之力神器被捡起了**"
 	}
 	"<< BOSS KILLED ALL HUMANS, SLAYING NOW!!!!!!! >>"
 	{
-		"chi"		"** **"
+		"chi"		"****"
 	}
 	"<<FOUNTAIN TP ENABLES IN  90 SEC>>"
 	{
-		"chi"		"** **"
+		"chi"		"**喷泉的传送点将在90秒后启用**"
 	}
 	"<<ZM TP ADVANCED>>"
 	{
@@ -26,7 +26,7 @@
 	}
 	"<<ZOMBIES TP IN 10 SECONDS>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	"<< DOOR BREAKS IN  35 SEC>>"
 	{
@@ -42,7 +42,7 @@
 	}
 	"<<LOOKS LIKE WE NEED TO FIND A LEVER>>"
 	{
-		"chi"		"** **"
+		"chi"		"**看起来我们需要寻找一个拉杆**"
 	}
 	"<<LEVER  HAS BEEN PULLED>>"
 	{
@@ -50,7 +50,7 @@
 	}
 	"<<EXIT  WALL  IS BROKEN >>"
 	{
-		"chi"		"** **"
+		"chi"		"**出口的门被破坏了**"
 	}
 	"<<RUN TO THE ELEVATOR>>"
 	{
@@ -66,7 +66,7 @@
 	}
 	"<< ELEVATOR  LEAVES IN 30 SECONDS>>"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在30秒后离开**"
 	}
 	"<< PULL DOWN 4 LEVERS TO ACTIVATE JIBA NUKE>>"
 	{

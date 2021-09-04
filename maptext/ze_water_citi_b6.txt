@@ -2,39 +2,39 @@
 {
 	"**The door will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开**"
 	}
 	"**The small door will open in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**小门将在15秒后打开**"
 	}
 	"**We were commissioned to clean the sewers**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们被委托到去清理下水道**"
 	}
 	"**Find your way into the sewer first**"
 	{
-		"chi"		"** **"
+		"chi"		"**先找到去下水道的方法**"
 	}
 	"**We found the sewer door**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们找到了通往下水道的门**"
 	}
 	"**But the door broke and took 30 seconds to repair**"
 	{
-		"chi"		"** **"
+		"chi"		"**但是门坏了需要30秒去修理**"
 	}
-	"**It will take 30 seconds for the next door**"
+	"**It will take 30 seconds fconds for the next door**"
 	{
-		"chi"		"** **"
+		"chi"		"**到下一个门还需要30秒**"
 	}
 	"**We need 30S to prepare**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要30秒来准备**"
 	}
 	"**There are so many obstacles,Well blow it up in 30 seconds,careful!!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**这儿有太多的障碍物了，我们将在30秒后炸毁他们，小心！！！！**"
 	}
 	"**How does a path appear here,Explore it**"
 	{
@@ -42,23 +42,23 @@
 	}
 	"**A tunnel opened into the ground,Lets explore together**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个通向地面的隧道打开了，让我们一起去探索**"
 	}
 	"**Where is here,Its like an underground palace**"
 	{
-		"chi"		"** **"
+		"chi"		"**这是哪？这想一个地底宫殿**"
 	}
 	"**Be careful,Underground creatures appeared**"
 	{
-		"chi"		"** **"
+		"chi"		"**小心，地底生物出现了**"
 	}
 	"**Finally killed,Lets close the door and seal this creature in here**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们杀死了他，去把门关上然后把生物封印在这**"
 	}
 	"**Dont let the monster out,It takes 30S to close the door**"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让怪物出去，需要30秒来关门**"
 	}
 	"sync_version"
 	{
@@ -66,26 +66,26 @@
 	}
 	"**The obstacle breaks after 45S**"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍将在45秒后摧毁**"
 	}
 	"**We need to find items to get into the sewer**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要寻找一个物品来进入下水道**"
 	}
 	"**OK The obstacle has been solved.**"
 	{
-		"chi"		"** **"
+		"chi"		"**OK，障碍被解决了**"
 	}
 	"**The hammer has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**锤子被捡起了**"
 	}
 	"**The sewer door opens after 45 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**下水道的门将在45秒后打开**"
 	}
 	"**The key has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"**钥匙被捡起了**"
 	}
 }
